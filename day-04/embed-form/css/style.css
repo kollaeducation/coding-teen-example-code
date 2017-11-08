@@ -1,0 +1,12 @@
+#form{
+	width: 550px;
+	height: 1250px;
+	overflow: hidden;
+}
+
+#form iframe{
+	margin-top: -200px;
+	margin-left: -100px;
+	height: 1500px;
+	width: 150%;
+}
