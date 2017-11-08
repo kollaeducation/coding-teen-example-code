@@ -1,0 +1,9 @@
+.minuman li{
+	 list-style-type: square;
+	 list-style-position: inside;
+}
+
+.makanan li{
+	 list-style-type: circle;
+	 list-style-position: outside;
+}

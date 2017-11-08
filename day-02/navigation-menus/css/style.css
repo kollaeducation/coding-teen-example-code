@@ -1,0 +1,25 @@
+div{
+	margin-top: 100px;
+}
+
+li{
+	padding: 20px;
+	float: left;
+	background-color: #ffd575;
+}
+
+li:hover{
+	background-color: #ffc542;
+}
+
+ul{
+	list-style: none;
+	width: 100%;
+}
+
+a {
+	padding: 20px;
+	color: #4b007a;
+	text-decoration: none;
+}    
+

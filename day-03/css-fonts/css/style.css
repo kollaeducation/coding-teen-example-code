@@ -1,0 +1,15 @@
+body{
+	font-size: 14px;
+}
+
+.author{
+	font-style: italic;
+}
+
+.tebal{
+	font-weight: bolder;
+}
+
+h2{
+	font-variant: small-caps;
+}
