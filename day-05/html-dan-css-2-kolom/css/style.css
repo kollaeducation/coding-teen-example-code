@@ -1,0 +1,15 @@
+.parent {
+    background-color: aqua;
+}
+
+.child1 {
+    background-color: brown;
+    float: left;
+    width: 20%;
+}
+
+.child2 {
+    background-color: cornflowerblue;
+    float: right;
+    width: 80%;
+}

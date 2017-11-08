@@ -1,0 +1,22 @@
+.parent2 {
+    background-color: blueviolet;
+    margin-top: 50px;
+}
+
+.childa {
+    background-color: bisque;
+    float: left;
+    width: 33%;
+}
+
+.childb {
+    background-color: chocolate;
+    float: left;
+    width: 34%;
+}
+
+.childc {
+    background-color: cadetblue;
+    float: left;
+    width: 33%;
+}
